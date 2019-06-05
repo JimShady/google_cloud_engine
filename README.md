@@ -18,3 +18,8 @@ ssh-rsa nosenseinhere myemail@gmail.com
 Start Putty , then connect with the IP of the remote machine, username: myemail@<ipaddress>. Go to SSH. Auth. Provide the key (Dropbox).
   
 Connect !
+
+# Get Jupyer running
+
+Python and envs: https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-18-04-server
+
