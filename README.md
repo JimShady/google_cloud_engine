@@ -23,3 +23,4 @@ Connect !
 
 Python and envs: https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-18-04-server
 
+THIS SEEMS TO WORK WELL : https://jeffdelaney.me/blog/running-jupyter-notebook-google-cloud-platform/
